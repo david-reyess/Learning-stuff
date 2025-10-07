@@ -3,3 +3,5 @@ Articles, videos, documentation and everything I'll use in order to get better a
 
 ## Leetcode
 [How to start](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025?utm_source=publication-search)
+[Data structures playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+[Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
